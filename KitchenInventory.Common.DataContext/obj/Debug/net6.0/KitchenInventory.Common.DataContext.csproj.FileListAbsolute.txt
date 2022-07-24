@@ -1,0 +1,14 @@
+C:\Users\Matt\source\repos\KitchenInventory\KitchenInventory\KitchenInventory.Common.DataContext\bin\Debug\net6.0\KitchenInventory.Common.DataContext.deps.json
+C:\Users\Matt\source\repos\KitchenInventory\KitchenInventory\KitchenInventory.Common.DataContext\bin\Debug\net6.0\KitchenInventory.Common.DataContext.runtimeconfig.json
+C:\Users\Matt\source\repos\KitchenInventory\KitchenInventory\KitchenInventory.Common.DataContext\bin\Debug\net6.0\KitchenInventory.Common.DataContext.dll
+C:\Users\Matt\source\repos\KitchenInventory\KitchenInventory\KitchenInventory.Common.DataContext\bin\Debug\net6.0\KitchenInventory.Common.DataContext.pdb
+C:\Users\Matt\source\repos\KitchenInventory\KitchenInventory\KitchenInventory.Common.DataContext\obj\Debug\net6.0\KitchenInventory.Common.DataContext.csproj.AssemblyReference.cache
+C:\Users\Matt\source\repos\KitchenInventory\KitchenInventory\KitchenInventory.Common.DataContext\obj\Debug\net6.0\KitchenInventory.Common.DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matt\source\repos\KitchenInventory\KitchenInventory\KitchenInventory.Common.DataContext\obj\Debug\net6.0\KitchenInventory.Common.DataContext.AssemblyInfoInputs.cache
+C:\Users\Matt\source\repos\KitchenInventory\KitchenInventory\KitchenInventory.Common.DataContext\obj\Debug\net6.0\KitchenInventory.Common.DataContext.AssemblyInfo.cs
+C:\Users\Matt\source\repos\KitchenInventory\KitchenInventory\KitchenInventory.Common.DataContext\obj\Debug\net6.0\KitchenInventory.Common.DataContext.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\KitchenInventory\KitchenInventory\KitchenInventory.Common.DataContext\obj\Debug\net6.0\KitchenInventory.Common.DataContext.dll
+C:\Users\Matt\source\repos\KitchenInventory\KitchenInventory\KitchenInventory.Common.DataContext\obj\Debug\net6.0\refint\KitchenInventory.Common.DataContext.dll
+C:\Users\Matt\source\repos\KitchenInventory\KitchenInventory\KitchenInventory.Common.DataContext\obj\Debug\net6.0\KitchenInventory.Common.DataContext.pdb
+C:\Users\Matt\source\repos\KitchenInventory\KitchenInventory\KitchenInventory.Common.DataContext\obj\Debug\net6.0\KitchenInventory.Common.DataContext.genruntimeconfig.cache
+C:\Users\Matt\source\repos\KitchenInventory\KitchenInventory\KitchenInventory.Common.DataContext\obj\Debug\net6.0\ref\KitchenInventory.Common.DataContext.dll

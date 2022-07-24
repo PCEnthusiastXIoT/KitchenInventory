@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VWMxIE/Sv63aqsas7yomq5FUWBo/0YhVlMyBsv4I0tU=",
+  "Source": "KitchenInventory.WebApi",
+  "BasePath": "_content/KitchenInventory.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
