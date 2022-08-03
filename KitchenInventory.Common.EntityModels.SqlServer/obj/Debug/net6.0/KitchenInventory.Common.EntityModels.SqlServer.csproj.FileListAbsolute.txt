@@ -1,0 +1,14 @@
+C:\Users\Matt\source\repos\KitchenInventory\KitchenInventory\KitchenInventory.Common.EntityModels.SqlServer\bin\Debug\net6.0\KitchenInventory.Common.EntityModels.SqlServer.deps.json
+C:\Users\Matt\source\repos\KitchenInventory\KitchenInventory\KitchenInventory.Common.EntityModels.SqlServer\bin\Debug\net6.0\KitchenInventory.Common.EntityModels.SqlServer.runtimeconfig.json
+C:\Users\Matt\source\repos\KitchenInventory\KitchenInventory\KitchenInventory.Common.EntityModels.SqlServer\bin\Debug\net6.0\KitchenInventory.Common.EntityModels.SqlServer.dll
+C:\Users\Matt\source\repos\KitchenInventory\KitchenInventory\KitchenInventory.Common.EntityModels.SqlServer\bin\Debug\net6.0\KitchenInventory.Common.EntityModels.SqlServer.pdb
+C:\Users\Matt\source\repos\KitchenInventory\KitchenInventory\KitchenInventory.Common.EntityModels.SqlServer\obj\Debug\net6.0\KitchenInventory.Common.EntityModels.SqlServer.csproj.AssemblyReference.cache
+C:\Users\Matt\source\repos\KitchenInventory\KitchenInventory\KitchenInventory.Common.EntityModels.SqlServer\obj\Debug\net6.0\KitchenInventory.Common.EntityModels.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matt\source\repos\KitchenInventory\KitchenInventory\KitchenInventory.Common.EntityModels.SqlServer\obj\Debug\net6.0\KitchenInventory.Common.EntityModels.SqlServer.AssemblyInfoInputs.cache
+C:\Users\Matt\source\repos\KitchenInventory\KitchenInventory\KitchenInventory.Common.EntityModels.SqlServer\obj\Debug\net6.0\KitchenInventory.Common.EntityModels.SqlServer.AssemblyInfo.cs
+C:\Users\Matt\source\repos\KitchenInventory\KitchenInventory\KitchenInventory.Common.EntityModels.SqlServer\obj\Debug\net6.0\KitchenInventory.Common.EntityModels.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\KitchenInventory\KitchenInventory\KitchenInventory.Common.EntityModels.SqlServer\obj\Debug\net6.0\KitchenInventory.Common.EntityModels.SqlServer.dll
+C:\Users\Matt\source\repos\KitchenInventory\KitchenInventory\KitchenInventory.Common.EntityModels.SqlServer\obj\Debug\net6.0\refint\KitchenInventory.Common.EntityModels.SqlServer.dll
+C:\Users\Matt\source\repos\KitchenInventory\KitchenInventory\KitchenInventory.Common.EntityModels.SqlServer\obj\Debug\net6.0\KitchenInventory.Common.EntityModels.SqlServer.pdb
+C:\Users\Matt\source\repos\KitchenInventory\KitchenInventory\KitchenInventory.Common.EntityModels.SqlServer\obj\Debug\net6.0\KitchenInventory.Common.EntityModels.SqlServer.genruntimeconfig.cache
+C:\Users\Matt\source\repos\KitchenInventory\KitchenInventory\KitchenInventory.Common.EntityModels.SqlServer\obj\Debug\net6.0\ref\KitchenInventory.Common.EntityModels.SqlServer.dll

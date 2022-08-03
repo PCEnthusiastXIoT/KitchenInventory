@@ -12,3 +12,6 @@ C:\Users\Matt\source\repos\KitchenInventory\KitchenInventory\KitchenInventory.Co
 C:\Users\Matt\source\repos\KitchenInventory\KitchenInventory\KitchenInventory.Common.DataContext\obj\Debug\net6.0\KitchenInventory.Common.DataContext.pdb
 C:\Users\Matt\source\repos\KitchenInventory\KitchenInventory\KitchenInventory.Common.DataContext\obj\Debug\net6.0\KitchenInventory.Common.DataContext.genruntimeconfig.cache
 C:\Users\Matt\source\repos\KitchenInventory\KitchenInventory\KitchenInventory.Common.DataContext\obj\Debug\net6.0\ref\KitchenInventory.Common.DataContext.dll
+C:\Users\Matt\source\repos\KitchenInventory\KitchenInventory\KitchenInventory.Common.DataContext\bin\Debug\net6.0\KitchenInventory.Common.EntityModels.SqlServer.dll
+C:\Users\Matt\source\repos\KitchenInventory\KitchenInventory\KitchenInventory.Common.DataContext\bin\Debug\net6.0\KitchenInventory.Common.EntityModels.SqlServer.pdb
+C:\Users\Matt\source\repos\KitchenInventory\KitchenInventory\KitchenInventory.Common.DataContext\obj\Debug\net6.0\KitchenInventory.Common.DataContext.csproj.CopyComplete
